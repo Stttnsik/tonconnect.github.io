@@ -4,7 +4,7 @@
 <body>
     <script>
         const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
-            manifestUrl: 'https://<YOUR_APP_URL>/tonconnect-manifest.json',
+            manifestUrl: 'https://t.me/PresaleCoin_bot/Presale>/tonconnect-manifest.json',
             buttonRootId: 'ton-connect'
         });
     </script>
